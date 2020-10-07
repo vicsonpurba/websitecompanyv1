@@ -166,7 +166,7 @@ p {
 /* Company Name CSS*/
 
 #company-name {
-    background-image: url(../img/Programmer.jpg);
+    background-image: url(Programmer.jpg);
     background-size: cover;
     background-position: top center;
     position: relative;
